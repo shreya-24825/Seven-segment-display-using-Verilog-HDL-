@@ -68,8 +68,9 @@ endmodule
 ```
 ## Simulated Output
 
-_____ Keep Simulated output ___________
-![Screenshot 2025-03-23 104318](https://github.com/user-attachments/assets/f95f4f57-a2aa-42f5-80cd-60180eeba7e7)
+![Uploading Screenshot 2025-09-19 105952.png…]()
+
+
 
 
 
